@@ -1,0 +1,22 @@
+.carousel-caption {
+    /* background: rgba(0, 0, 0, 0.35); */
+    font-size: large;
+    size: 100%;
+    background: rgba(0, 0, 0, 0.582);
+    background-size: 50mm;
+
+    transform: translateY(-50%);
+    bottom: initial;
+    top: 50%;
+}
+.carousel-item active{
+    background-size: 100% 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode:darken;
+ 
+}
+
+.carousel-inner > .item > img {
+    width:640px;
+    height:360px;
+  }
