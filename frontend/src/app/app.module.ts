@@ -11,6 +11,7 @@ import { SignupComponent } from './signup/signup.component';
 import { LoginComponent } from './login/login.component';
 import { FooterComponent } from './footer/footer.component';
 import { NewapplistService } from './newapplist.service';
+import { AboutusComponent } from './aboutus/aboutus.component';
 
 @NgModule({
   declarations: [
@@ -20,6 +21,7 @@ import { NewapplistService } from './newapplist.service';
     SignupComponent,
     LoginComponent,
     FooterComponent,
+    AboutusComponent,
     
     
   ],

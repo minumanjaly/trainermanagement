@@ -30,10 +30,15 @@
               "src/assets"
             ],
             "styles": [
-              
+              "src/assets/css/tailwind.css",
+              "src/assets/css/all.min.css",
+              "src/assets/css/tooplate-antique-cafe.css",
               "node_modules/bootstrap/dist/css/bootstrap.min.css"
           ],
             "scripts": [
+              "src/assets/js/jquery-3.6.0.min.js",
+              "src/assets/js/parallax.min.js",
+              "src/assets/js/jquery.singlePageNav.min.js",
             
                "node_modules/bootstrap/dist/js/bootstrap.min.js"
            ]
